@@ -16,8 +16,3 @@
 ## Installation
 npm install  
 npm run dev  
-
-## Live Demo
-[Netlify Link]
-
-## Project Structure
